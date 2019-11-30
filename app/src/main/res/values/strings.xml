@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SematecAndroidBasicAban98</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="save_data">save data</string>
+    <string name="show_new_page">Show New Page</string>
 </resources>

@@ -3,27 +3,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
     android:orientation="vertical"
-    tools:context=".SecondActivity">
+    tools:context=".TestSharedPrefrencesActivity">
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp" />
 
     <EditText
         android:id="@+id/edtName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="Please enter your name"
         android:inputType="textPersonName" />
 
     <Button
-        android:id="@+id/btnNewPage"
+        android:id="@+id/btnSave"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/show_new_page"
-        android:textSize="30sp" />
-
-
-    <TextView
-        android:id="@+id/txtFamily"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="30sp"/>
+        android:text="Save"
+        android:textSize="18sp" />
 </LinearLayout>

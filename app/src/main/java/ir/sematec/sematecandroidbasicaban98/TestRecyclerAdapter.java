@@ -48,6 +48,13 @@ public class TestRecyclerAdapter extends RecyclerView.Adapter<TestRecyclerAdapte
             super(itemView);
 
             txtName = itemView.findViewById(R.id.txtName);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+
+                }
+            });
         }
     }
 }

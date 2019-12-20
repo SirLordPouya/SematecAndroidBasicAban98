@@ -1,0 +1,25 @@
+
+à
+Xapp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestSharedPrefrencesActivity.java,e/0/e0fc20faecd5ddfea514e16f20102740e0d0e874
+~
+Napp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestDrawerActivity.java,7/0/700ed1ac4a8a79475a6e8a4bf768ae07b2edc948
+Ä
+Papp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestRecyclerActivity.java,f/d/fd8a04e730b3db36720857ec0b8e330b9f8bf99d
+
+Oapp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestRecyclerAdapter.java,1/a/1a588987ac5b9fba436e805febc5672aca1dfae9
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+~
+Napp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestThreadActivity.java,7/f/7f6d5eae3413ed5a8d9fcf842feedf9258f964ba
+
+Oapp/src/main/java/ir/sematec/sematecandroidbasicaban98/pray/PrayTimesClass.java,a/5/a5f291f5e1b8897f7ace40c42d40e52270415af3
+u
+Eapp/src/main/java/ir/sematec/sematecandroidbasicaban98/pray/Data.java,e/6/e66d70e9374eeef885bee05764fdd9f5081f718a
+x
+Happ/src/main/java/ir/sematec/sematecandroidbasicaban98/pray/Timings.java,0/5/05ab2859e5de5e90c5811cc45ac878e8e466d396
+
+Oapp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestHttpUrlActivity.java,2/0/20af41846ad47c14c38ac804e20485d85b2b07e3
+Å
+Qapp/src/main/java/ir/sematec/sematecandroidbasicaban98/TestAsyncHttpActivity.java,4/a/4a35b0969712fd4f6e9c873ae75eab7a2cb7e596

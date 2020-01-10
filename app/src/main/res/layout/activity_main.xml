@@ -10,8 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="@string/hello_world"
-        android:textColor="@color/colorRed"
-        android:textSize="40sp"
+        style="@style/MyCustomStyle"
         android:textStyle="bold" />
 
     <EditText

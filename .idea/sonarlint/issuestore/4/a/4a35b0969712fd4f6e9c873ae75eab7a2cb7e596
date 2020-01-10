@@ -1,5 +1,5 @@
 
 jsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(Ø¾ò¹úÿÿÿÿ
+Ksquid:S1185)"(Remove this method to simply inherit it.(ðÐ—öúÿÿÿÿ8º©ßûï-
 [
 squid:S106%"9Replace this use of System.out or System.err by a logger.(ó÷Ø›þÿÿÿÿ8Í—”üï-
-Ksquid:S1185)"(Remove this method to simply inherit it.(ðÐ—öúÿÿÿÿ8º©ßûï-

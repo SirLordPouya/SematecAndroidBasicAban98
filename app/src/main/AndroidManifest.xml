@@ -11,7 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TestDBActivity">
+        <activity android:name=".TestWebViewActivity">
+        </activity>
+        <activity android:name=".TestHandlerActivity">
+        </activity>
+        <activity android:name=".TestHTMLActivity"></activity>
+        <activity android:name=".TestVideoViewActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
@@ -19,9 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TestAsyncHttpActivity">
-        </activity>
-        <activity android:name=".TestHttpUrlActivity"></activity>
+        <activity android:name=".TestServiceActivity" />
+        <activity android:name=".TestViewPagerActivity" />
+        <activity android:name=".TestFragmentActivity" />
+        <activity android:name=".TestDBActivity" />
+        <activity android:name=".TestAsyncHttpActivity" />
+        <activity android:name=".TestHttpUrlActivity" />
         <activity android:name=".TestThreadActivity" />
         <activity android:name=".TestRecyclerActivity" />
         <activity android:name=".TestDrawerActivity" />
@@ -30,6 +38,8 @@
         <activity android:name=".ThirdActivity" />
         <activity android:name=".SecondActivity" />
         <activity android:name=".MainActivity" />
+
+        <service android:name=".TestService" />
     </application>
 
 </manifest>

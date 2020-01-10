@@ -4,4 +4,7 @@
     <string name="please_enter_your_phone_number">Please enter your phone number</string>
     <string name="save_data">save data</string>
     <string name="show_new_page">Show New Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

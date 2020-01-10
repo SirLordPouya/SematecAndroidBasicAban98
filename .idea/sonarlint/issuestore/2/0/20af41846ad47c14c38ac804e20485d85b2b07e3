@@ -3,7 +3,7 @@
 squid:S106:"9Replace this use of System.out or System.err by a logger.(ó÷Ø›şÿÿÿÿ8á¾ûï-
 [
 squid:S106-"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ8¾ÅÆøï-
+‚squid:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8¾ÅÆøï-
+‚squid:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8¾ÅÆøï-
 Fsquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾ÅÆøï-
-‚squid:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8¾ÅÆøï-
-‚squid:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8¾ÅÆøï-
 esquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(ÿ¸é
